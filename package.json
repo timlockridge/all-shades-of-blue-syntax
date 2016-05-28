@@ -5,7 +5,10 @@
   "description": "A syntax for writing in Markdown-based prose.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "markdown",
+    "blue",
+    "font-weight-light"
   ],
   "repository": "https://github.com/timlockridge/all-shades-of-blue-syntax",
   "license": "MIT",
