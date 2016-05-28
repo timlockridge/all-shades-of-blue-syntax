@@ -11,4 +11,6 @@ This style _mostly_ adheres to my preferences for writing, but there are more ch
 
 > "and your heart's a thousand colors / but they're [all shades of blue](http://gregoryalanisakov.com/songs/all-shades-of-blue)"
 
+## Screenshot of theme:
+
 ![A screenshot of theme theme](screenshot.png)
