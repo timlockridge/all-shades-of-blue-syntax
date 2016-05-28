@@ -13,4 +13,4 @@ This style _mostly_ adheres to my preferences for writing, but there are more ch
 
 ## Screenshot of theme:
 
-![A screenshot of theme theme](screenshot.png)
+![A screenshot of theme theme](https://raw.githubusercontent.com/timlockridge/all-shades-of-blue-syntax/master/screenshot.png)
