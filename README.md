@@ -1,6 +1,6 @@
 # All Shades of Blue: An Atom Syntax Theme for (Markdown) Prose Writers
 
-This is a Markdown theme that addresses my own preferences for writing Markdown-based prose. In particular it:
+This is an [Atom](https://atom.io) theme that addresses my own preferences for writing Markdown-based prose. In particular it:
 
 * Indents lists, gives list indicators a blue hue, and differentiates list text color from body text color;
 * Uses a light font weight;
