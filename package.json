@@ -1,7 +1,7 @@
 {
   "name": "all-shades-of-blue-syntax",
   "theme": "syntax",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "A syntax for writing in Markdown-based prose.",
   "keywords": [
     "syntax",
