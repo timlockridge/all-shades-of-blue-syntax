@@ -1,5 +1,7 @@
 # All Shades of Blue: An Atom Syntax Theme for (Markdown) Prose Writers
 
+_Note: This theme requires burodepeper's [Markdown Grammar](https://atom.io/packages/language-markdown) package._
+
 This is an [Atom](https://atom.io) theme that addresses my own preferences for writing Markdown-based prose. In particular it:
 
 * Indents lists, gives list indicators a blue hue, and differentiates list text color from body text color;
