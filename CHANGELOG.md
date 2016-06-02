@@ -1,3 +1,6 @@
+## 0.6.0
+* Updated blockquote background color to an rgba value. The opacity allows me to see selection and spelling errors.
+
 ## 0.5.0
 * Updated color for folding text handles. I may be the only person who ever runs into this problem, but Folding Text for Atom is a great outliner, and visible handles are helpful!
 * Updated the readme, as I realized this theme uses the class selectors from burodepeper's Markdown grammar package.
