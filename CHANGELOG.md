@@ -1,3 +1,6 @@
+## 0.5.3
+* Added critic markup highlighting.
+
 ## 0.5.2
 * Updated blockquote background color to an rgba value. The opacity allows me to see selection and spelling errors.
 * Fixed negative margin inheritance issue on markdown links in lists
