@@ -1,3 +1,6 @@
+## 0.5.4
+* Changed shade of critic markup green to make additions more visible. (Still not happy with it.)
+
 ## 0.5.3
 * Added critic markup highlighting.
 
