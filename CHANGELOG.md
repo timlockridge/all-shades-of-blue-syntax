@@ -1,3 +1,6 @@
+## 0.5.5
+* Fixed margin error with lists & **bold** or *italic* text.
+
 ## 0.5.4
 * Changed shade of critic markup green to make additions more visible. (Still not happy with it.)
 
